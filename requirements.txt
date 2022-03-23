@@ -32,7 +32,7 @@ service-identity==18.1.0
 six==1.13.0
 South==1.0.2
 sqlparse==0.3.0
-Twisted==22.1.0
+Twisted==22.2.0
 txaio==18.8.1
 urllib3==1.26.5
 zope.interface==4.7.1

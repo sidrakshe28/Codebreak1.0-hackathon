@@ -15,7 +15,7 @@ django-hashers-passlib==0.4
 django-rest-auth==0.9.5
 djangorestframework==3.11.2
 hyperlink==19.0.0
-idna==2.8
+idna==3.7
 incremental==17.5.0
 passlib==1.7.2
 pyasn1==0.4.8

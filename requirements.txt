@@ -25,7 +25,7 @@ PyHamcrest==1.9.0
 pyOpenSSL==19.1.0
 python-mimeparse==1.6.0
 pytz==2019.3
-requests==2.31.0
+requests==2.32.2
 RestAuth==0.6.3
 RestAuthCommon==0.7.0
 service-identity==18.1.0

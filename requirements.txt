@@ -31,7 +31,7 @@ RestAuthCommon==0.7.0
 service-identity==18.1.0
 six==1.13.0
 South==1.0.2
-sqlparse==0.5.0
+sqlparse==0.5.4
 Twisted==24.7.0
 txaio==18.8.1
 urllib3==2.6.3
